@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0f172a" offset="0%"/>
+      <stop stop-color="#1f2937" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="120" width="1040" height="390" rx="32" fill="#0b1220" opacity="0.7"/>
+  <text x="120" y="250" fill="#a5b4fc" font-size="42" font-family="Inter, Arial, sans-serif" font-weight="700">ToolsFree</text>
+  <text x="120" y="320" fill="#e5e7eb" font-size="32" font-family="Inter, Arial, sans-serif" font-weight="600">Kumpulan tools online: teks, gambar, dev, jaringan, generator.</text>
+  <text x="120" y="380" fill="#cbd5e1" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="400">Gratis, cepat, tanpa instalasi.</text>
+</svg>
+
